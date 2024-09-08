@@ -1,6 +1,10 @@
 {
   "mods": [
     {
+      "id": "fabric_api",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2%2B1.20.1.jar"
+    },
+    {
       "id": "chat_heads",
       "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MdoSw2dL/chat_heads-0.12.13-fabric-1.20.jar"
     }
