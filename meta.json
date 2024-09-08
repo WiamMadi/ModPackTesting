@@ -21,6 +21,15 @@
                     "modrinth": "https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.11"
                 }
             }
+        },
+        {
+            "id": "3.0.0",
+            "releasedAt": 209384093822,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.11"
+                }
+            }
         }
     ]
 }
